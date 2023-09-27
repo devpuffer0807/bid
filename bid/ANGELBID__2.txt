@@ -1,0 +1,30 @@
+Hello.
+Nice to meet you.
+This is the senior Full-Stack Engineer and Blockchain/NFT developer.
+I appreciate your job post and I am interested in this job with much confidence.
+
+Because I am strong about making smart contracts for several blockchain networks using solidity/Rust and experience about Dex, Dapp, Defi, erc20/erc721/erc1155 tokens.
+
+-  In case of front-end, I have strong skills about React.js, Redux, Redux-Saga, Redux-thunk, Javascript, Typescript, HTML, CSS and css frameworks like React-bootstrap, Material-UI, Tailwindcss and MVC frameworks
+- In case of back-end, I have strong skills about Node.js, Express, Python Django, Golang.
+- In case of communication between front-end and back-end, I am good at RESTful API, GraphQL, Apollo and Websocket.
+- I have full experience about AWS services including AWS Lambda, AWS EC2, AWS S3, DynamoDB and experience about GCP and Azure.
+- I am working under the agile methodologies so I am familiar with CI/CD tools like Jenkins and CircleCI and Docker experience.
+
+
+My published live websites' urls:
+https://dexscreener.com
+https://staking.ghospers.com
+https://app.harvest.finance
+https://pets.micropets.io/
+https://staking.ghosers.com/ (EVM)
+https://cryptoetsnft.io/
+https://tacocat.co/ (EVM)
+https://app.harvest.finance/ (EVM)
+https://vendor.generousrobots.com/ (Solana)
+https://okaybears.com/ (Solana)
+
+I have worked in companies under the scrum methodologies and can work over 40 hours per week.
+I hope to work with you and looking forward to discussing some more
+Thank you
+Biru bin Jebat

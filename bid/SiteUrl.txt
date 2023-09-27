@@ -1,0 +1,86 @@
+====================Excellent pound NFT=========
+https://thedogepoundnft.com/
+https://okaybears.com/ (Solana)
+================Python=================================
+ mailerrize.com React + Django
+vissla.com React + Django
+• tabrabbit.com React + CI
+• doorcoin Laravel
+• Created using Resumonk - Online Resume Builder
+• vissla.com React + Django
+• arvioliidi.com Vue/Nuxt + Node
+==================.NET/C#===========================
+- https://www.marketwatch.com/
+- https://www.ancestry.com/
+- https://www.hello.diply.com/
+===================================================
+=====================Casino game=============
+https://bitlucy.com/
+https://stake.com/
+================Three.js=============
+http://www.campoallecomete.it/#!/en
+======================php
+https://ugmonk.com
+=================React.js+bitcoin
+https://bitcards.com (bitcoin)
+========================================
+https://www.zillow.com/
+https://reverb.com/ (Ruby on Rails + React)
+https://danceofdawn.com(React.js + TailWind CSS)
+https://www.chewy.com/ (pet shop)
+https://stationhq.com/
+https://mybitcards.com/
+https://portefini.com/ (clothes shop)
+https://djob.ch/ (service site)
+https://www.websitebuilder.com/
+https://www.edx.org/ (learning site)
+https://www.letsbuild.com/ (building service)
+======================================================
+- https://receptix.uk/ (WordPress)
+- https://www.ecwid.com/ (WordPress)
+- https://astitchintimedesigns.com/ (Shopify)
+- https://blackforestwood.com/ (Shopify)
+- https://flothemes.com/ (WordPress)
+- https://www.bank24.se/ (WordPress)
+- https://upqode.com/ (Node.Js)
+- https://www.zibtek.com/ (Node.Js)
+- https://kodius.com/ (Node.Js)
+- https://www.admios.com/ (Webflow)
+- https://www.admios.com/ (PHP)
+- https://www.telemart.pk/ (Ecommerce)
+- https://hummart.com/ (Ecommerce)
+- https://s-pro.io/software-product-development (Node.Js)
+=============================================================
+##### Web Scraping & Automation #####
+https://github.com/m6efu/Origo_Scrape
+https://github.com/m6efu/Map-automation-in-Google-My-Maps
+
+##### Django + React.js #####
+https://github.com/m6efu/mimansa-app-django-react
+https://github.com/m6efu/django-entry-website-python-django
+https://github.com/m6efu/Automotive-Warranty-Claim-Processor
+
+##### Django Ecommerce #####
+https://github.com/m6efu/metalroofing-django
+https://github.com/m6efu/warehouse250-django
+
+##### Django #############
+https://github.com/m6efu/Exam_Django
+https://github.com/m6efu/Sports_Analytics_Django
+https://github.com/m6efu/dencity
+
+##### flask #####
+https://github.com/m6efu/dashboard_from_google_sheets_python
+https://github.com/m6efu/Excel-CSV_to_MySQL_to_Exel-CSV_Flask
+https://github.com/m6efu/USMLE_Scrape_Selenium_Flask
+
+##### Python #####
+https://github.com/m6efu/TD_Ameritrade_API_Python
+https://github.com/m6efu/DWG_to_PDF_Python_Anydwg
+https://github.com/m6efu/sendplot
+
+##### node.js/sails.js #####
+
+https://github.com/m6efu/Yogo-API-sails
+https://github.com/m6efu/popular-finance-tickers
+...

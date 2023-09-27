@@ -1,0 +1,24 @@
+Hello.
+Being a senior Nft developer, I am reaching out to you with my interest in your project.
+✔️ Why me:
+   In fact, I am a blockchain&NFT expert and well-versed in famous Defi-projects like Uniswap, ERC20 and ERC721 Tokens, Blockchain Supply Chain Solutions, and many more things.
+
+This is my working history with NFT
+
+https://cryptotrunks.co 
+My another project is NFT minting site on Ethereum mainnet.
+First I made 10k images and metadata and then using IPFS API, I have uploaded all assets to IPFS storage.
+You can see in my profile, I have rich experience in solidity and web3.js too.
+Using ERC721 token and solidity, I have developed a smart contract for the NFT minting site on the Ethereum mainnet.
+I added mint function(mint NFT token), wallet of owner function(decide the token owner), token URI(set base URI), set cost(only owner) and so on.
+Using remix and truffle, I have developed smart contract to ethereum mainnet.
+
+https://solpunks.com 
+My latest project is the NFT minting site and I have developed that site from scratch.
+First I prepared layers for images such as background, face, hair, beards, glasses.
+After that using node.js and layers, I have developed a random generating engine and metadata for 10k NFTs.
+Also using metaplex command, I uploaded 10 images and metadata files to arweave.net storage.
+And then I have completed smart contract with Rust and deployed it to solana network using metaplex. Currently, preferred programming language for the smart contract is Rust. I have developed many smart contract with rust and anchor frameworks on the Solana network.
+
+I am ready to start and looking forward to meeting you soon for a start
+Best regards

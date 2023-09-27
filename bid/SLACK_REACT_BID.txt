@@ -1,0 +1,10 @@
+:computer:Senior Fullstack Dev, Blockchain Dev:computer:
+I have enough experience with frontend development and Blockchain.
+:muscle:  Main Skills:
+:point_right:  Web3/Solidity/Reach/Rust/Blockchain (Solana, Ethereum, Algorand)
+:point_right:  Frontend: React/Redux/Next.js/Gatsby/GraphQL/Socket.io/Three.js/Tailwind CSS/Material UI/TypeScript/Three.js
+:point_right:  Backend: Node.js/Strapi/ Express.js/Nest.js/Golang/ RESTful API
+:point_right:  Database: MongoDB/ Fire store/ MySQL/ PostgreSQL
+:point_right:  Video Streaming/Conference: AWS Kinesis/ WebRTC/ Wowza/ Jitsi
+:point_right:  Project Management: GitHub / GitLab/ JIRA/ Trello/ Zoho
+I can work 40+ hours in your time zone and start right now.

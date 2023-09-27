@@ -1,0 +1,30 @@
+Hi respected client!
+Nice to meet you!
+As a senior blockchain&NFT developer, I have already been involved in many innovative NFT projects(ERC721/1155 Contract, Mint WebSite, NFT Market Place) that are technically flawless.
+So no problem with satisfying your requirement seamlessly.
+
+- My works
+https://treedefi.com
+https://pets.micropets.io/
+https://cryptoetsnft.io/
+https://desertedzebras.com/
+https://www.thekittybutts.com/
+https://faraland.io/
+https://themekaverse.com/
+http://mercafantasy.com/
+https://vendor.generousrobots.com/ (Solana)
+https://okaybears.com/ (Solana)
+
+I solved the points like the following in these projects
+
+-upload arts to IPFS and get metadata, tokenURI
+-create ERC721 smart contract for NFT
+-create a website for mint NFT and show minted NFT
+-wallet connection(metamask, binance wallet, wallet connect and trust wallet) and web3 integration with web3.js and ether.js
+-frontend development by React/Web3
+
+So I can even deploy your project on testnet in which you don't have to pay for gas fees and then if you are satisfied, you can safely deploy it on Mainnet.
+
+I will do my best for you to provide High Quality and High Speed.
+
+Best Regards

@@ -1,0 +1,754 @@
+Hi, Hope you are doing so well.
+As you required, I have worked on AmeriCommerce Theme cutomization project using https://themedesign.americommerce.com/?microstoreid=0&sessionthemeid=171 before.
+I have vast of experience and will provide you a theme per the mockup requirements using AmeriCommerce structure and deploying its widget idea.
+Thanks and looking forward to hearing from you really soon.
+------------------
+Hello Allcorrect.
+I have read your description carefully and very excited about this opportunity to grow myself.
+As a senior React.js developer I am very confident with my skills and willing to have a test since your required technology stack is my expertise.
+JavaScript(ES6) : Senior
+Pixi, Cocos2d, three : Middle,
+Webpack : Senior,
+HTML, CSS : Senior
+Looking forward to hearing from you soon.
+---------Commercial MERN--------------------
+⭐⭐Hi⭐⭐
+Congrats on starting a special website for your business.
+Reading through your job description carefully, I am reaching out to you with a great interest in your project.
+I've made several websites from scratch for my former clients and all of them were very happy about my work and their value so I am proud of my rich first-hand practical experience gained through my career.
+You can check some of them here.
+
+https://www.autorentals.com/
+https://invest.cardonecapital.com/
+
+In technical aspect, I would like to use ReactJs as a frontend framework and Nodejs as a backend.
+As you required completely serverless using Firebase so it is #1 important to familiar with Firebase cloud service for you.
+And this is what gives me an edge over the others since I've developed 10+ websites using  Firebase.
+
+According to your basic requirements, I will use following Firebase services.
+1, 3, 4, 5: Firebase Console, Firebase Authentication, Cloud Functions
+2: Firestore
+7: Firebase Cloud Messaging.
+One of the firebase app I'v developed is
+https://officestock.ca/
+
+If you like it, please contact me and let's discuss about how we can build successful ecommerce website in more detail.
+
+Look forward to your kind response and let's start building something cool.
+Thanks.
+Vladislav
+
+------Angular + TypeScript-----------
+Hello.
+I am senior Angular/Typescript developer with 6 years of experience in building web applications.
+I am confident with my skills and as you required, I am ready to have a test for free in a few days.
+In the test, you can also check my talents in HTML, CSS.
+If you'd be able to contact me so that I can message you after the test, that'd be great.
+Thanks.
+
+---No stech only goal------
+Hi.
+Congrats on building your own udemy like website.
+As a senior web developer with rich experience in building web applications, I am reaching out to you with a great interest in NoraHome Development.
+I've made several websites similar to this one so I have couple of ideas to make it better.
+
+Please check this website which I've participated in development.
+https://frontendmasters.com/
+
+I believe you will like it a lot.
+Regarding responsive and UI & UX, that doesn't matter for me at all.
+I will integrate mobile payment system as you need.
+If you'd able to contact me at your convenient time, that'd be great.
+Thanks.
+-----------MEVN-socketio----------
+Hello.
+I have done similar projects before using Socket.io and Node.js so I am very confident that I can absolutely do this.
+You can check this blockchain website, one of my past work which used Socket.io heavily.
+https://dappradar.com/
+There might be several issues but one of most common issue is disconnecting socket clients properly and clearly to ensure no lingering sockets.
+If you'd be able to provide more details via DM, that'd be great.
+Let's start fixing and make it cool ASAP.
+Thanks.
+
+-----MERN Discord/auth/paypal--------
+Hi.
+Congrats on building Discord Dashboard with paypal subscription.
+As a senior web developer, I am reaching out to you with a great interest in this great project development.
+After fully checking your description, I've got your main idea.
+Three main logics here are 
+1) user side / subscription to Discord account from Paypal or cancel it, 
+2) user side / allow paying users to get invited to server by clicking a button
+3) admin side / detecting user info
+4) admin side / auto kicking users with subscription ends
+
+Given your job description, it is more about backend with integrating social apis and this is where my talents could be better used.
+In the last 3 years, I have developed many websites and most of them heavily used Paypal, Discord, Facebook, Google etc so I am extremely familiar with these api integrations.
+If you'd be able to contact me via DM, it'd great.
+Regards.
+
+
+-------Front-end redisgn---------
+Hello
+Congrats on starting new web-based application for your business and I am reaching out to you with a great interest in the rewriting of Front-end.
+I have carefully checked Web App Specs and fully understand the goal of this job.
+I will use your existing RESTful API and make a nice-looking, fully functional website for you.
+You can check some of my past work here.
+https://www.tradingview.com/
+https://invest.cardonecapital.com/
+https://www.bowsy.com/
+
+Also check one of the world's most-loved theme React Material.
+https://material-ui.com/store/previews/bamburgh-react-admin-dashboard-pro/
+
+As a senior front-end developer, I have rich experience in building web applications so I would bring a lot of great ideas to the table for you.
+You can discuss with me what great parts we can use from other websites including eztexting.com, simpletexting.com or whatever you like.
+
+I think recreating the frontend wouldn't take much time (maybe less than 15 days, still I am not 100% sure unless checking your website fully).
+If you'd be able to contact me with some more helpful details, that'd be amazing!
+
+Regrads.
+Valdislav.
+
+
+----------JavaScript Full Stack commercial website--------------
+Hello.
+As a senior JavaScript FullStack Developer, I am reaching out to you with a great interest in your project development.
+I have created many commercial websites before using MERN & MEVN stack before so I have got rich hands-on experience in this field.
+React.js, Redux, Redux-thunk, Redux-saga, Next.js for SSR, Gatsby for SSG, React Material for UI, Vue.js, Nuxt.js for SSR, Node/Express, Socket.io, webrtc are my main skills and I am proud of my talents in these fields.
+
+You can check my past work here and your instant response is really appreciated.
+
+https://invest.cardonecapital.com/
+https://www.bowsy.com/
+
+Look forward to your kind response.
+Regards.
+Nikita Semenov
+---------Rental MERN--------------------
+⭐⭐Hi⭐⭐
+Congrats on starting a special website for your business.
+As a senior fullstack developer, I am reaching out to you with a great interest in your project development.
+I've made several ecommerce websites from scratch for my former clients and all of them were very happy about my work and their value so I am proud of my rich first-hand practical experience gained through my career.
+You can check some of them here.
+
+https://www.tradingview.com/
+https://www.autorentals.com/
+https://invest.cardonecapital.com/
+https://www.canva.com/
+https://www.bowsy.com/
+
+If you like it, please contact me and let's discuss about how we can build successful ecommerce website.
+
+Look forward to your kind response and let's start building something cool.
+Thanks.
+--------MERN-short---------
+⭐⭐Hi there⭐⭐ 
+As a senior MERN stack developer with 6 years of hands-on experience I would give special value for you.
+If you'd able to give me a test to evaluate my talents, that would be an amazing opportunity for me to show my skills.
+Thank you.
+Andrii.
+-------------------Coding Test---------
+Hi, I am a senior JavaScript Engineer who has a special love for web development.
+If you'd be able to give me a test, that would be amazing and it'd be an opportunity for me to show my talents.
+
+Thanks in advance.
+Andrii.
+----------Vuejs no clear job desc--------------
+Hello, I am a senior JavaScript engineer with a special love for Vue.js and I have 3+ years of rich experience in building web applications using Vue.js.
+If you'd be able to give me a test to evaluate my talents, that would be amazing and it would be an opportunity for me.
+
+Thanks in advance.
+Andrii
+---------react admin--------------------
+Hi.
+As a senior React.js developer, I am reaching out to you with a great interest in your job.
+I can use React Apollo library for GraphQL integration
+I have 5+ years of experience and I am sure I can develop one page within a day.
+Look forward to your kind response and let's start building something cool.
+Thanks.
+---------Rental MERN--------------------
+Hi.
+Congrats on starting a new rental website for your business.
+As a senior MERN stack developer, I am reaching out to you with a great interest in your project development.
+I've made rental websites for my former clients and all of them were very happy about my work and their value.
+I have 5+ years of experience and it would be pleasure for me to work with you.
+Look forward to your kind response and let's start building something cool.
+Thanks.
+
+
+----------------Nextjs + Antd----------
+Hi,
+As a senior Next.js developer, I am reaching out with a great interest in your project development.
+Using AntD in Next.js needs some configuration.
+1) install `antd`, `next-less`, `less-vars-to-js`, `next-compose-plugins`
+2) configuration in `next.config.js`
+const themeVariables = lessToJS(fs.readFileSync(...))
+const plugins = [withCSS, withLess({...}), withSass ]
+
+We are done to start Next.js + Antd.
+Look forward to your kind response and let's start building something cool.
+-----------------Web-based accounting program------------
+Hello.
+Congrats on great starting your food ordering website.
+Launching web based system works always great for the business I know my staff here to make it more valuable.
+After checking the job description carefully, I am reaching out with a great interest in your food ordering website development.
+I have successfully developed websites similar to this one so I have full confidence that I can deliver high quality food ordering website within 7 days.
+Look forward to your kind response and let's start building something cool.
+Thanks.
+
+
+----------Full-stack no clear job desc--------------
+Hello, I am a senior Full-stack developer with a special love for Vue.js and I have 3+ years of rich experience in building web applications using Vue.js.
+Checking your description carefully, I understand that you are forming a big dev team and congrats. You found and using nice tools for the team work.
+In my career, I've participated in multi-national developers' teams and this first-hand experience gives me a pretty good understanding about what it is and how I do.
+In a word, I know my staff.
+In technical aspect AWS, Github, JS/TS, React, Angular, Vue are my major and at least in these fields, I believe that there is no superior to me.
+As much as I am confident with my talents, I still have some question regarding your business.
+If you'd be able to answer this question in a few sentences, that would be amazing.
+Regards.
+Vladislav
+
+-------------Fullstack Uth-------------
+Hi.
+Congrats for starting your amazing plan.
+I am reaching out after checking your job description carefully with a great interest in building large freelancer like platform development.
+With 10+ years of experience in web development field, I have gained a lot of hands-on experience that I can bring to the table.
+You will find great value on me and it will be my pleasure.
+Your first chunck is mainly about authentication part and it is like a piece of cake for me.
+If you add, and I suggest you to consider not only JWT auth but also Firebase, Facebook or Linkedin.
+I will provide you the best full-stack solution if you give me a chance.
+
+Regards.
+Andrii.
+-------MERN-shopping-------------
+1. After reading "Product Catalog and Admin Dashboard" doc carefully, I am sending you a proposal with great interest in your website development.
+I can start as soon as everything is agreed including designs and workflows since your admin dashboard gives me a clear but big picture rather than detailed steps.
+2. I have experience with Google Cloud Platform.
+3. MERN or MEAN stack is the best but personally, I prefer MERN stack.
+4. Milestone1 for DB staff: 200 AUD
+   Milestone2 for AdminDashboard: 500 AUD
+Your kind reply is really appreciated.
+Thanks.
+
+-----MERN-easy--------
+Hi.
+After checking your job description carefully, I am sending you a proposal with great interest in your MERN stack form wizard project development.
+I am going to use following modules for development.
+-React.js
+styled component or just import css file for each page (you need every page has a custom css)
+React-formik
+-express
+unirest
+axios
+https://ip-geolocation-ipwhois-io.p.rapidapi.com/json/ endpoint
+
+I have full confidence with my skills and look forward to an interview with you to go further.
+Thanks
+
+-----------MERN-detailed doc-------------
+Hi jahhiz.
+After checking the attached document really carefully, I am sending you a propsal with a great interest in your Restaurant management system.
+
+So to sum up, my expectation is going to be 100 days and 2700 usd in total.
+I am making a detailed document to make clear as possible as I can.
+If you are interested, your message is really appreciated.
+Thank you.
+
+-----------------Web-based accounting program------------
+Hello, After checking attached wireframe carefully, I am reaching out with a great interest in accounting web program development for your business.
+I have successfully developed websites similar to this one so I have full confidence that I can deliver high quality web-based accounting program within 10 days .
+But I have a question for you.
+	Do you want to have Webpage2(Inventory page) in your website or does this only mean the logic inside database?
+Look forward to your response with clarification.
+
+------------------------------------------------------
+In my introductory proposal, I suggested that any freelancer who would actually do the job for that price, might actually take the project.
+If you'd be able to answer this question in a few sentences, that would be amazing.
+I am reaching out
+
+
+----------MERN+Kafka------------------
+Hello, As a senior MERN stack developer with 6 years of experience in building full stack web applications, I am sending you a proposal with a great interest in your project.
+Kafka is also one of my favourite platform for data monitoring.
+Looking forward to have an interview with you.
+
+
+---------BingoLike Socket IO game---------
+Hello, After checking job description and given url carefully, I am sending you a proposal with full confidence about your project.
+Game logic was well-recieved by me including credit control.
+I've made similar games before and this first-hand experience gives me an edge over the others.
+You can check one of them.
+https://www.prodigygame.com/
+
+Socket.io will be the best chioce for such game and I will integrate it in Express backend framework.
+Frontend framework depends on your chioce though I prefer React.js because of its fast speed.
+
+
+------------Vuejs Quasar Serverless-----------
+Hello, After reading your job description, I am sending you a proposal with great interest in your project.
+As a senior FullStackDeveloper, I have rich experience with PWA using Vue.js, Nuxt for SSR and TYPO3.
+I look forward to have a quick interview and start building something cool.
+
+
+
+-----simple card game site unopinioned about framework, so MERN-----------
+🍅Hello, After checking your job description and pptx file, I am sending you an exact proposal with great interest in your project.🍅
+
+As a backend framework, I am sure that the Node/Express is the best one because of its high speed.
+And there are couple of Frontend frameworks we can use but I suggest you to choose React.js. Because it uses Virtual DOM feature and thus, it is well-known as the fastest Frontend framework in 2020.
+Using MERN stack as the basis, I can leverage my talents gained through 5 years of websites development career to make this more attractive, user friendly than others.
+
+You can my awesome previous work here.
+✅https://www.prodigygame.com
+✅https://dappradar.com
+✅www.rapidsexplorer.com
+
+As per my understanding, the most important point of this site is to make it user-friendly with beautiful animation.
+I can fully achieve it using Google Material UI design patterns and my luxury animation skills
+
+And finally, it seems like it also needs an admin dashboard where admin users can control data needed for the game.
+If you agree, I will made it using admin template whatever you like.
+✅http://react-material.fusetheme.com
+
+LV1-7 days/$250
+LV2-7 days/$200
+LV3-5 days/$200
+End of Game:2 days/$100
+Review, bug fix:5 days/free
+
+in total : 26 days / $750
+
+I hope this proposal would the most reasonable for you and look forward to have a quick interview to start building something 😎cool😎.
+Thanks.
+
+-----------Front End Developer---------------
+Hello, As a senior Frontend developer with 5+ years of experience, I am sending you a proposal with great interst in your project.
+In order to be a good Frontend developer, there are couple of mandatory techs to have and they are HTML/HTML5, CSS/LESS/SCSS/Sass, jQuery/JavaScript/ES6.
+I am very old with these technologies and hava got razor sharp eye for the details.
+Looking forward to have a quick interview with you.
+Thank you.
+
+------------------ajax, chart---------------------
+Hello, After checking your job description, transmitter dot com and chartjs plugin, I am sending you a proposal with full confidence.
+As a senior frontend developer with 9+ years of experience in this field, I have used chartjs plugins very much and made a lot charts for the websites for the blockchain, admin theme etc.
+www.rapidsexplorer.com
+If you like it, please don't hesitate to contact me andyou will get great result in a day.
+
+---------No design, only documentation for platform, No framework in mind---------------
+Hello, After checking your job description carefully, I am sending you a proposal with great interest in your project.
+As a senior Fullstack developer, I have rich practical experience in building websites similar to this one.
+In my opinion, for this kind of freelancer platform, SEO is one of the most important factor to succeed.
+In terms of SEO, I can give you special value using Server side rendering techs.
+Looking forward to have your documentation to have a clearer understanding about the site.
+Thanks.
+
+-----------------------Django and Angular-------------------
+Hello, After checking your job description carefully, I am sending you a proposal with great interest about your project.
+As a senior Full stack developer with special talents in Django + Angular 10, I have built many websites succesfully.
+As you need, I will provide MVP for your business and collaborate for your and my success.
+Looking forward to discuss in more detail via chat.
+
+
+--------------------latest React Hooks with MUI and Bootstrap------------------------
+Hello, After checking your job description carefully, I am sending you a proposal with full confidence.
+Your project requires an senior React developer with rich experience in converting HTML+CSS theme to the latest version of React.
+Nowadays, React team is introducing React hooks in the latest versions and it is going to be the future of the React.
+I have developed several websites using React hooks and this rich experience gives me an edge over the others.
+And also, converting Bootstrap into React SPA might be confusing if they don't know Reactstarp.
+Honestly, Reactstrap and Google Material UI are my specialized fields and you can easily find value on me.
+Looking forward to having a quick interview with you to start building something cool with great UI & UX.
+
+P.S.
+You asked me to write budget in the bid but I am not clear about the project scope.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+Hello, I am a senior JavaScript Engineer with 5 years of experience in building React.js Websites and 3 years with Angular.js.
+I have rich experience with US based agencies and good communication skills.
+I am ready to your coding challenge and look forward to have long term relationship with you.
+Could you contact me to find value on me?
+Thanks.
+
+--------------------------
+Hello, I have done similar projects before.
+I will add admin section where you can set tax for each product or each country, and it will automatically be added to the product prices.
+I believe that it won't take more than 3 days.
+Looking forward to your reply
+Regards
+-----------------------------
+Hello. I am a senior FullStack Developer with special experience of 6 years building commercial sites.
+I have great talents in React.js, Laravel and Ecommerce while it seems like you are looking for a developer with such qualities.
+I will be happy to discuss in more detail via chat about your on progress website.
+Reards.
+Vladislav.
+
+------------------------
+
+Hello, According to your requirements, I've developed a quick HTML+CSS+JS website which focuses on code quality.
+https://enigmatic-headland-56625.herokuapp.com/
+If you are interested, please contact me.
+I look forward to long term relationship with you.
+Best regards.
+Vladislav
+-------------------------
+
+Hello, I've carefully checked the ChangeRequests pdf file and 3 attached screenshots.
+I am a senior React.js developer and I have rich experience in building websites so I have full confidence with my talents.
+
+Based on your doc file, I have a few questions for you.
+1) FN-205
+- Does the backend use SQL or NoSQL?
+- What query Language does the website use? REST or GraphQL
+2) FN-191
+3) FN-199
+- It seems that it needs some small works in Backend Side.
+  Is it going to be my responsiblity or have you got another backend developer?
+  If you don't have, I can also work in backend side since I have 4 years of experience in building CI.
+
+I can start work right now and I do not think it will take more than 3 days and 150 USD.
+I appreciate your kind reply with answers in advance.
+
+Best regards.
+Vladislav.
+
+
+
+
+--------------------------
+
+Hello, As a senior React.js stack developer, I am totally interested in your project.
+
+
+I am good at translating designs into highly responsive interfaces with rich functionality under the suitable animation.
+I am also familiar with Web3, Truffle, Solidity and Socket.io.
+Rich experience will give me an edge over the others.
+Thank you and looking forward to work with you.
+
+★★★★★♛ Nuxt.js + Animation Guru ♛★★★★★
+Hello, I am a Senior JavaScript FullStack Developer who has 5+ years of experience.
+I've read your job description and I think I can give you a pleasure.
+I have strong skills and experience with SSR + Nuxt.js and Next.js.
+I also have done several projects similar to this one before.
+I'll do my best to finish your project perfectly.
+You will be happy with quality of my code, nice looking UIs with suitable animations and fast delivery.
+I'm flexible in working hours and full time available, I can overlap at least 8 hrs a day in your timezone.
+Thank you and I really hope to work with you.
+
+------------Laravel + Vue + React--------------------
+Talented Laravel Guru Here!
+Absolutly this project will be a good opportunity to show my Laravel skills & experience to work on your project in future as well.
+Especially, Laravel is my strongest skill. For 5+ years experiences, I was very familiar with many laravel concepts (Authentication, Eloquent ORM, Task Scheduling, Queue, Blade Template, Query Builder, Collection, etc)
+For the frontend side, Vue, React are my priority.
+I have checked your description carefully so I have full confidence that I can do what about you want.
+I want you to make the most reasonable choice.
+On the private chatbox, I can tell you my recommendations and solutions.
+Let's discuss and get your job done.
+You can check my awesome Laravel skill from the following urls.
+Everything was built with laravel framework.
+
+Best Regards.
+
+
+https://www.420portal.com
+- Marijuana Cannabis Website
+- Laravel & Vue.JS
+- MobileApp: Ionic 5 Angular
+https://26wins.com
+- Malaysia Online Casino Website
+- Laravel
+https://pushpolitics.net
+- Uploading BulkCSV website
+- Laravel
+https://pastos.online
+- Inventory Management System
+- Laravel & Vue.js
+https://tropicalgida.co
+- Inventory Management System
+
+------------------------------
+Hi Casey.
+As a senior React.js Developer, I am really interested in your project.
+I have been developing React.js web projects for more than 5 years and I know ropes of React.js including many recommended libraries such as Redux Thunk & Saga & Observable, React Router, React Hooks, Material UI, testing frameworks and this rich experience definitely gives me an edge over the others. (I am pretty good at Redux Saga and this is my special thing that I will bring to the table.)
+I have full confidence about my React.js skills and I believe that I can do whatever you want in the even stupidly tight timeline with REACT.
+I am also familiar with Firebase/Firestore and 
+You can check my talents via chat or even by a test.
+I hope you to contact me with more details.
+
+Regards.
+Vladislav
+
+----------------------------------------------------------------------------
+Hi Eric.
+I've checked your job requirements thoroughly.
+Based on your description, I know that you are looking for an React developer who also has got rich experience in AWS.
+I excel in React.js, React Native, Redux Thunk, Redux Saga, Redux Observable, Functional component with React Hooks, AWS Bitbucket, AWS Cognito, AWS Lambda, AWS Amplify, etc and this gives me an edge over the others so I strongly believe that I will be the perfect candidate for your project.
+I am looking forward to contact with you via chat to discuss in more detail.
+
+Regards.
+
+
+-------------------------------
+Hello.
+Your project requirements are well-received by me and I have full confidence that I can manage all of 6 enhancements you want to add.
+In addition, I am ready to implement cache functionality in both Backend and Frontend since I am good at MERN stack programming.
+Just let me have your project source code and let's start ASAP.
+------------------------------------
+Hello. I've carefully checked your project requirements and as much as I have confidence with my skills, I also have some questions for you.
+First, does this Front-end React project use Redux Thunk or Saga,
+And second, what chart module does this use?
+I also have some ideas to make your project better and moreover, I will implement caching functionality.
+Thanks and look forward to your response.
+------------------------------
+https://www.freelancer.com/u/ivanovwebvladisl
+Hi 10.
+As a senior React.js Developer (please check my profile), I am really interested in your project.
+I have been developing React.js web projects for more than 5 years and I know ropes of React.js including many recommended libraries such as Redux Thunk & Saga & Observable, React Router, React Hooks, Material UI, Formix and this rich experience definitely gives me an edge over the others.
+I have full confidence about my React.js skills and I believe that I can do whatever you want with REACT.
+You can check my talents via chat or even by a test.
+I hope you to contact me with more details and establish long-term contract.
+
+Regards.
+Vladislav
+
+P.S.
+My recent successful website using React
+https://www.prodigygame.com/
+
+------------------------------
+https://www.freelancer.com/u/shlerp11
+Hi.
+As a senior NodeJS Developer, I am really interested in your project.
+I have been developing NodeJS/Express JS web projects for more than 5 years and I have rich experience in this field.
+One of my most successful product is https://www.shaw.ca/.
+I am also familiar with Github, Asana, CI/CD, Swagger and for front-end I love to use React and Vue.
+I have full confidence about my MERN stack skills and I believe that I can achieve whatever you want in tight deadline with Node and React.
+You can check my talents via chat or even by a test.
+I hope you to contact me with more details and establish long-term contract.
+
+Regards.
+Andrii
+
+P.S. 
+1) I can manage mon-fri 09.00-15.00 (GMT+1) 
+2) I have two buddies here who are good at MERN stack.
+
+-----------------------------------------
+Hello, I have read your job description carefully and I found that I can illustrate my talents with your project.
+I have razor sharp eye for the details and I can provide you perfect result with nice looking interfaces with suitable animation.
+I have built many stepper wizards before so this experience can also give me value for you.
+Looking forward to hearing from you.
+Regards.
+Andrii
+
+--------------------------------------
+Hello, I've read your job description thoroughly and I have several questions and my suggestions for you.
+
+1: What web frameworks are you going to use?
+   My suggestion is 
+	1) use Node/Express + Socket.io since it is known as the best choice for real time communication
+	2) use React or Vue because it guarantees best speed even though website renders frequently because of real time messages and 
+2: Do you have any designs for the development?
+3: You mentioned about camera but not clear if you want video chat functionality or just broadcasting video file is ok.
+   My suggestion is
+	if you want to have broadcasting functionality implemented, I have special thing to bring to the table, that is observable pattern which is the perfect match for this purpose.
+
+
+My plan
+0. Starting phase - 100 usd
+1. Users Module
+	1) Broadcaster - 200usd
+		- Opening Room and managing functionality
+		- Broadcasting video
+	2) Viewer - 200usd
+		- Joining Room and watch video
+		- Gifting credits
+	3) Membership - 100 usd
+2. Admin Panel Module
+	1) Open or Ban Broadcaster/Viewer account - 100 usd
+	2) Ban private Rooms - 100 usd
+	3) Credit Control - 100 usd
+	4) Themeify admin panel including notification customization - 100 usd
+3. Payment and Email module - 200 usd
+
+So in total, it is going to be 1.2k and I can complete task in 45 days.
+If it sounds reasonable for you, please don't hesitate to contact me via private chat with the answers.
+
+Regards.
+Andrii
+
+
+***************Next.js Expert Here******************
+Hello.
+I've gone through your job description carefully and I am really interested in your project  since I have done many similar projects before using Next.js.
+I can provide you high quality, bug free code using well structrued SCSS styling.
+But even though I did every in my power to ensure the quality, hitches do happen so I will fix the bugs for free for 2 months.
+
+My plan is
+- Home Page : 100 usd
+- Restaurants Page : 100 usd
+- Cart Page : 100 usd
+- Partners About Page : 100 usd
+- Auth Pages : 150 usd
+- Profile pages : 150 usd
+- Payment module : 100 usd
+
+So in total, it's going to be 800 usd and take around 20 days for me.
+If you hire me, you and I both will save time and money.
+If this sounds reasonable for you, please contact me and send me the wireframes so that we can start soon.
+
+Regards.
+Vladislav
+
+*********Senior Web Developer**********
+Hello, I have gone through your job description carefully and I am contacting you to discuss more.
+You've purchased a html template so it would be easy to build front-end projects, though it needs professional work when we want to have a maintainable and scalable code.
+When it comes to structuring and modularizing work, that's where I am specially strong at.
+And regarding the backend part, I have rich practical experience so I am familiar with my leading services such as Paypal, Stripe, MailChimp etc and you will probably find value on me.
+I'd love to talk to you in more detail
+Regards.
+Andrii
+
+********Senior MERN stack Developer********
+https://www.freelancer.com/u/ivanovwebvladisl
+Hi.
+As a senior MERN stack Developer (please check my profile), I am ready to start right now.
+I have been using MERN stack more than 5 years and I know ropes of it including many recommended libraries such as Redux Thunk & Saga & Observable, React Hooks, Material UI, Formix and this rich experience definitely gives me an edge over the others.
+I have full confidence about my React.js skills and I believe that I can do whatever you want with REACT.
+You can check my talents via chat or even by a test.
+I hope you to contact me with more details and establish long-term contract.
+
+Regards.
+Vladislav
+
+P.S.
+My recent successful website using MERN stack
+https://www.prodigygame.com/
+
+-----------------------------------
+Hello, I am a Senior MERN stack Developer who has 3+ years of experience.
+I've read your job description and I think I can give you a pleasure.
+I have strong skills and experience with react-redux,redux-saga,redux-thunk,react-form and react-hooks.
+And I mastered TypeScript(ECMA Script 6), SQL, MongoDB, CSS/LESS/SCSS and Node.js(express.js, jwt.js, passport.js .. ).
+I'll do my best to finish your project perfectly.
+You will be happy with quality of my code and fast delivery.
+I'm flexible in working hours and full time available, I can overlap at least 8 hrs a day in your timezone.
+Thank you and I really hope to work with you.
+
+
+
+-----------------------------------
+Hello, I am a Senior Larvel+Vue stack Developer who has 3+ years of experience.
+I've read your job description and checked MP4 file and I think I can give you a pleasure.
+
+I have strong strong skills and rich experience with Laravel + Vue full-stack development.
+And I mastered PHP, JavaScript, SQL, CSS/LESS/SCSS and especially good at solving security concerns including SQL injection attacks, XSS and CSRF.
+I also have got rich practical experience with integrating many 3rd party plugins including Mailing and Payment modules as well as AWS deployment.
+And my experience with boosting performance of websites could be the special thing that I can bring to the table.
+
+I have done several projects that are similiar to this one before.
+Based on your MP4 file, I think you used Google Material UI's design and that's what I am especially good at.
+I can provide you fully responsive and nice looking user interfaces in a short period of time by leveraging my talents with Vue Material.
+
+You will be happy with quality of my code and fast delivery.
+I'm flexible in working hours and full time available, I can overlap at least 8 hrs a day in your timezone.
+Thank you and I really hope to work with you.
+
+
+
+-----------------------------------
+Hello, I am a Senior MERN stack Developer who has 3+ years of experience.
+
+I've read your job description and I think I can give you a pleasure.
+1. Have got 3 years experience
+2. As a committed team player, I can give value to the team
+3. Yes, I am ready.
+4. Good at writing and speaking English
+5. Yes. I do.
+6. I am a JavaScript Engineer and I am good at many leading libraries including React, Redux, AntD
+7. I am super user of CSS libraries including Styled-components, Material UI, JSS, etc
+8. I also have got great experience in full-stack development and this gives me a pretty good understanding about GraphQL, REST, Axios etc
+9. As a MERN stack developer, I have written many backend codes using Node/Express, Hapi
+10. Have used it a lot
+11. I have been using MySQL, MongoDB, Postgres in most of the time
+12. familiar with Ubuntu
+13. yes, I have
+14. I have used scrum workflow a lot
+15. yes, I have ability to work independently
+16. Professional knowledge about Git
+17. I have deployed many ServerLess projects to AWS.
+
+
+I am ready to have a technical interview with you.
+I'm flexible in working hours and full time available, I can overlap at least 8 hrs a day in your timezone.
+Thank you and I really hope to work with you.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------VLADISLAV PROFILE-----------------------
+✅ Top Rated !
+✅ High Communication Skill !
+✅ 5.0 Rating and 100% Client Satisfaction !
+
+I am a senior Full Stack Developer with a special Love for JavaScript and PHP.
+I have extensive hands-on experience in building high-quality websites for more than 8 years.
+
+✅ React/Redux - React Hooks, Material UI, Reactstrap, Semantic UI, Metronic, JSS, Styled Components, TailWind, AntD, Redux-Saga & Redux-Thunk, Redux-Form, MobX, React-Router, React-Helmet, React Charts, Immutation, Flux Architecture, Axios, Gatsby, Next.js
+✅ Vue.js - Nuxt.js, Vuetify, VueX, Vue Material, HighCharts, Vue-Router, Axios
+✅ Angular, Angular.js, RxJS, ngrx, Angular Material UI
+✅ Node.js, Express.js, MongoDB, Mongoose, JWT, Auth0, Passport
+
+✅ Laravel, CodeIgniter, Wordpress
+
+✅ HTML5, CSS3, SASS/SCSS/LESS, UI/UX Design, Twitter Bootstrap, Material UI, Semantic UI
+✅ Postgres, MySql, Mongodb, Neo4j db
+✅ APIs - Restful APIs, GraphQL, Facebook, Twitter, Google API, Google Maps, Google Analytics, YouTube, Paypal, Stripe, Zoho
+
+✅ MVC design patterns and Test-driven development cycle (TDD)
+✅ Project management software (Jira, Asana, Trello)
+✅ Version control software (Git, Bitbucket, SVN)
+
+As for my personal characteristic, I thrive on challenge, I work well under pressure and I would describe myself as detail-oriented and proactive.
+And also, as a committed team player, I could leverage all of my knowledge and experience to easily adapt to new situations and work environments.
+
+It's important for me to build long-term relationship, so I am primarily looking for long-term projects.
+And also I am happy to work closely with any existing developers you work with.
+
+Thank you for your golden time and I am ready to cooperate.
+
+-----------------------------
+Hello, I have rich experience in boosting performance of JavaScript written websites.
+Most of the time, the crucial reason was rerendering of the whole UI rather than just a specific part that needs to be updated.
+And I wonder if your website uses enough lazy-loading feature which reduces the inital loading time dramatically.
+I am ready to switch your website to React.js framework which guarantees the modularity and high performance.
+I am also familiar with Webpack.
+Looking forward to hearing from you with more details.
+Thank you.
+Andrii

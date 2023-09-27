@@ -1,0 +1,53 @@
+============================================React========================================
+Hello.
+I have gone through the description and the product carefully and I would love to share my interest.
+
+As a senior Full Stack developer, I have great knowledge and experience in
+- Web3 full experience in Blockchain companies
+- HTML, CSS, CSS3, JavaScript, JQuery, ES6, TypeScript
+- Frontend: React.js/Redux, Spring Boot, Next.js, Nest.js 
+- Backend: Node.js Express, Python Django/Flask, C#
+- Css frameworks like bootstrap, Tailwind CSS, Ant Design, Vuetify
+- Rest API integration and familiar with AWS, Google Firebase
+- Databases like mysql, nosql, PostqreSql, mssql , MongoDB, redis
+- Familiar with version control software like Jira, GitHub, Git
+- Unit testing by using Jest and Enzyme
+
+As I have worked in several teams, I have strong communication skills in English  and know-how to work well under the Agile/Scrum methodology.
+I'm flexible in working hours and full time available, I can overlap at least 8 hours a day in your time zone.
+I am ready to do my best and looking forward to meeting you soon.
+Best Regards.
+============================================Blockchain====================================
+Hello, I appreciate for your job posting first.
+I have gone through your description and I am reaching out to you with my interest in this job.
+As a senior Blockchain developer, I am proficient in this aspect.
+In technical apsect, I have great knowledge and experience in 
+
+✔️ React/Typescript, web3.js/ethers.js
+✔️ NFT | Blockchain | DeFi | Vyper | Polkadot | Solidity, Rust
+
+Focused on Ethereum and Polkadot. Working with blockchain, cryptocurrencies and the opportunities they create. Talk to me if you want help with:
+
+- NFTs(ERC721) (Creation, Marketplace, for ex. like on Rarible, SuperRare, etc.)
+- ERC20 - Token creation and distribution
+- DeFi (Yield Farming, for ex. via platforms like Yearn, Uniswap, Sushiswap, Compound, Aave)
+- Flashloans & Arbitrage
+- Smart Contract Development on Ethereum, Solana, binance.
+- dApp and App Development
+
+Job experiences:
+- Familiar with version control software like Jira, GitHub, Git
+- Unit testing by using Jest and Enzyme
+
+I have strong communication skills in English and know-how to work well under the scrum and sprint meetings and daily stand up.
+Of course, I'm flexible in working hours and full time available and I can overlap at least 8 hours a day in your time zone.
+I am ready to do my best and looking forward to meeting you soon.
+Regards
+
+============================================Words=======================================
+agile
+scrum
+daily standups
+sprint meetings
+Jira, Github, Atlassian
+tools like AWS, Heroku, Netlify, Jenkins
